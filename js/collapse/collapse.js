@@ -1,9 +1,15 @@
-define (["dojo/_base/declare"], function(declare) {
-	return declare("collapse", [], {
+define ([	"dojo/_base/declare",
+			"dijit/_WidgetBase",
+    		"dijit/_TemplatedMixin",
+    		"dojo/text!./templates/collapse.html"
+], function(declare, _WidgetBase, _TemplatedMixin, template) {
+	return declare("collapse", [_WidgetBase, _TemplatedMixin], {
 		
-		init: function () {
-			console.log("collapse starting!!");
+		templateString: template,
+		
+		postCreate : function () {
+			this.inherited(arguments);
 		}
-	
+
 	})	
 });

@@ -13,7 +13,7 @@
 
 	<meta name="viewport" content="width=device-width">
 
-	<link rel="stylesheet/less" type="text/css" href="styles/less/collapse.less">
+	<link rel="stylesheet/less" type="text/css" href="styles/less/main.less">
 	<script src="js/libs/less.js" type="text/javascript"></script>
 
 	<script src="js/libs/modernizr.js"></script>
@@ -22,8 +22,8 @@
 <header>
 	<h1>This is Collapse!</h1>
 </header>
-<div role="main" class="collapse">
-
+<div role="main">
+	<div id="collapse"></div>
 </div>
 <footer>
 	<span>App by Tom!</span>
@@ -43,9 +43,8 @@
 <script src="js/dojo/dojo.js"></script>
 
 <script>
-	require(["collapse/collapse"], function (collapse) {
-		var Collapse = new collapse();
-		Collapse.init();
+	require(["collapse/Collapse"], function (Collapse) {
+		var Collapse = new Collapse({}, "collapse");
 	});
 </script>
 
