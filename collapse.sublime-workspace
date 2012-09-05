@@ -15,23 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1151,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "styles/less/main.less",
-			"settings":
-			{
-				"buffer_size": 30,
-				"line_ending": "Unix",
-				"name": "@import style.css"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -69,6 +52,15 @@
 	},
 	"file_history":
 	[
+		"/Users/tom/Documents/workspace/collapse/index.html",
+		"/Users/tom/Documents/workspace/collapse/js/collapse/Collapse.js",
+		"/Users/tom/Documents/workspace/collapse/js/collapse/templates/Collapse.html",
+		"/Users/tom/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/Users/tom/Documents/workspace/collapse/styles/less/main.less",
+		"/Users/tom/Documents/workspace/collapse/styles/less/collapse/collapse.less",
+		"/Users/tom/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tom/Documents/workspace/collapse/js/djConfig.js",
+		"/Users/tom/Documents/workspace/collapse/styles/less/bootstrap/mixins.less",
 		"/Users/tom/Documents/workspace/stPetersSchool/WebContent/privacyPolicy.html",
 		"/Users/tom/Documents/workspace/stPetersSchool/WebContent/prospectus.html",
 		"/Users/tom/Documents/workspace/node/chat/node_modules/net/test.js",
@@ -92,6 +84,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"box-shadow",
+			"shadow",
+			"outline",
+			"solid",
 			"gSpreadsheetIO.setKey(\"0AsIzp6Va2yCCdE4xaVRYamZSdU40eHUxdkRVTmFtS0E\");",
 			"<li><a href=\"index.html\">Home</a></li>",
 			"crosskeys"
@@ -114,63 +110,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 1151,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								753,
-								753
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "styles/less/main.less",
-					"settings":
-					{
-						"buffer_size": 30,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30,
-								30
-							]
-						],
-						"settings":
-						{
-							"auto_name": "@import style.css",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
