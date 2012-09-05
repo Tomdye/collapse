@@ -1,0 +1,19 @@
+Type: Basic
+g r e e e e e e e e y y
+g r r e e e e e e y y b
+g e r r e e e e y y e b
+g e e r r S S y y e e b
+g e e e r r y y e e e b
+g g e e e y y e e e b b
+e g g e y y r r e b b e
+e e g y y e p r r b e e
+e e y y g p e b r r e e
+e y y e g g b b e r r e
+y y e e e g g e e e r r
+y e e e b b g g e e e r
+y e e b b e e g g e e r
+y e b b e e e e g g e r
+y b b e e e e e e g g r
+y b e e e e e e e e g g 
+
+

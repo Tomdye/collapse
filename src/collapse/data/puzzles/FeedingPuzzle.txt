@@ -1,0 +1,18 @@
+% Basic feeding Puzzle
+
+Type: Feeding
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e 
+e e e e e e e e e e e e
+e e e e e e e e e e e e
+b b b g r g g b b b g b 
+r g r r r g r b r b g g
